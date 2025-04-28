@@ -1,0 +1,34 @@
+[
+    {
+        "id": "u101",
+        "name": "林小明",
+        "email": "lxm@example.com",
+        "phone": "0912-345-678",
+        "role": "customer",
+        "joinDate": "2023-08-15T08:30:00Z"
+    },
+    {
+        "id": "u102",
+        "name": "王小華",
+        "email": "wxh@example.com",
+        "phone": "0923-456-789",
+        "role": "customer",
+        "joinDate": "2023-09-05T14:20:30Z"
+    },
+    {
+        "id": "u103",
+        "name": "張小芳",
+        "email": "zxf@example.com",
+        "phone": "0934-567-890",
+        "role": "customer",
+        "joinDate": "2023-10-10T10:15:45Z"
+    },
+    {
+        "id": "u001",
+        "name": "管理員",
+        "email": "admin@venue.com",
+        "phone": "0900-123-456",
+        "role": "admin",
+        "joinDate": "2023-01-01T00:00:00Z"
+    }
+]

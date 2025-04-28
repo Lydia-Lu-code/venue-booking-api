@@ -1,0 +1,71 @@
+[
+  {
+    "id": "v1001",
+    "name": "陽光會議中心",
+    "type": "conference",
+    "capacity": 150,
+    "address": "台北市信義區松仁路100號5樓",
+    "facilities": ["投影機", "音響系統", "無線網路", "冷氣空調"],
+    "pricePerHour": 3000,
+    "images": [
+      "https://example.com/venues/v1001_1.jpg",
+      "https://example.com/venues/v1001_2.jpg"
+    ],
+    "minHours": 2,
+    "availableTimeSlots": [
+      {"day": "星期一", "start": "09:00", "end": "21:00"},
+      {"day": "星期二", "start": "09:00", "end": "21:00"},
+      {"day": "星期三", "start": "09:00", "end": "21:00"},
+      {"day": "星期四", "start": "09:00", "end": "21:00"},
+      {"day": "星期五", "start": "09:00", "end": "21:00"},
+      {"day": "星期六", "start": "10:00", "end": "18:00"},
+      {"day": "星期日", "start": "10:00", "end": "18:00"}
+    ]
+  },
+  {
+    "id": "v1002",
+    "name": "藝文展覽廳",
+    "type": "exhibition",
+    "capacity": 200,
+    "address": "台北市大安區仁愛路四段25號B1",
+    "facilities": ["專業照明", "展示牆", "無線網路", "安全監控"],
+    "pricePerHour": 5000,
+    "images": [
+      "https://example.com/venues/v1002_1.jpg",
+      "https://example.com/venues/v1002_2.jpg"
+    ],
+    "minHours": 4,
+    "availableTimeSlots": [
+      {"day": "星期一", "start": "休館", "end": "休館"},
+      {"day": "星期二", "start": "10:00", "end": "20:00"},
+      {"day": "星期三", "start": "10:00", "end": "20:00"},
+      {"day": "星期四", "start": "10:00", "end": "20:00"},
+      {"day": "星期五", "start": "10:00", "end": "20:00"},
+      {"day": "星期六", "start": "09:00", "end": "21:00"},
+      {"day": "星期日", "start": "09:00", "end": "21:00"}
+    ]
+  },
+  {
+    "id": "v1003",
+    "name": "青松活動空間",
+    "type": "multipurpose",
+    "capacity": 80,
+    "address": "新北市板橋區民生路一段33號3樓",
+    "facilities": ["基本音響", "摺疊桌椅", "無線網路", "簡易廚房"],
+    "pricePerHour": 1800,
+    "images": [
+      "https://example.com/venues/v1003_1.jpg",
+      "https://example.com/venues/v1003_2.jpg"
+    ],
+    "minHours": 2,
+    "availableTimeSlots": [
+      {"day": "星期一", "start": "10:00", "end": "22:00"},
+      {"day": "星期二", "start": "10:00", "end": "22:00"},
+      {"day": "星期三", "start": "10:00", "end": "22:00"},
+      {"day": "星期四", "start": "10:00", "end": "22:00"},
+      {"day": "星期五", "start": "10:00", "end": "22:00"},
+      {"day": "星期六", "start": "09:00", "end": "23:00"},
+      {"day": "星期日", "start": "09:00", "end": "23:00"}
+    ]
+  }
+]

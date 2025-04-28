@@ -1,0 +1,27 @@
+[
+  {
+    "id": "conference",
+    "name": "會議空間",
+    "description": "適合舉辦會議、研討會等商務活動"
+  },
+  {
+    "id": "exhibition",
+    "name": "展覽空間",
+    "description": "適合藝術展覽、產品展示等活動"
+  },
+  {
+    "id": "multipurpose",
+    "name": "多功能空間",
+    "description": "可靈活配置，適合各種社交活動、派對等"
+  },
+  {
+    "id": "studio",
+    "name": "攝影棚",
+    "description": "專業攝影或錄影使用的空間"
+  },
+  {
+    "id": "classroom",
+    "name": "教室空間",
+    "description": "適合培訓、課程、工作坊等教育活動"
+  }
+]
